@@ -1,0 +1,338 @@
+
+
+
+
+⸻
+
+id: KB-004
+
+title: Titularidade dos Direitos Patrimoniais em Obras Produzidas com Auxílio de Inteligência Artificial
+
+category: Direito Digital
+
+type: Pesquisa Jurídica
+
+status: Em desenvolvimento
+
+created: 2026-06-29
+
+updated: 2026-06-29
+
+tags:
+
+* Direitos Autorais
+* Inteligência Artificial
+* Titularidade
+* Direitos Patrimoniais
+* Propriedade Intelectual
+* LDA
+
+⸻
+
+Titularidade dos Direitos Patrimoniais em Obras Produzidas com Auxílio de Inteligência Artificial
+
+Documento de pesquisa destinado a reunir fundamentos jurídicos sobre a titularidade dos direitos patrimoniais em obras produzidas com auxílio de Inteligência Artificial.
+
+⸻
+
+Objetivo
+
+Investigar se existe fundamento jurídico para reconhecer direitos patrimoniais originários à empresa desenvolvedora de um sistema de Inteligência Artificial sobre a saída (output) gerada por um usuário, quando inexistente cláusula contratual específica de cessão ou licenciamento desses direitos.
+
+Este documento não pretende apresentar conclusões definitivas, mas reunir fundamentos legais, doutrinários e jurisprudenciais para subsidiar futuras pesquisas e produção de conteúdo.
+
+⸻
+
+Problema de Pesquisa
+
+Suponha o seguinte cenário:
+
+* um usuário utiliza uma ferramenta de IA;
+* a obra produzida é considerada protegida pelo Direito Autoral;
+* o usuário é reconhecido como autor;
+* não existe cláusula contratual de cessão ou transferência dos direitos patrimoniais;
+* não existe cláusula limitando a exploração econômica da obra.
+
+Pergunta:
+
+Existe fundamento jurídico para reconhecer que a empresa desenvolvedora da IA possua direitos patrimoniais originários sobre essa obra?
+
+⸻
+
+Hipótese Inicial
+
+Em uma análise preliminar da Lei nº 9.610/1998, não parece existir fundamento jurídico expresso que atribua automaticamente à empresa desenvolvedora da Inteligência Artificial a titularidade dos direitos patrimoniais sobre a obra produzida pelo usuário apenas pelo fato de ter desenvolvido o modelo utilizado.
+
+Essa hipótese deverá ser confirmada ou refutada ao longo desta pesquisa.
+
+⸻
+
+Premissas
+
+Premissa 1
+
+A Inteligência Artificial não possui personalidade jurídica.
+
+Consequentemente, não pode ser considerada autora nos termos do art. 11 da Lei nº 9.610/98.
+
+⸻
+
+Premissa 2
+
+A empresa desenvolvedora do modelo não participa, em regra, do processo criativo específico realizado pelo usuário.
+
+Ela desenvolve a ferramenta.
+
+Não participa da criação individual da obra.
+
+⸻
+
+Premissa 3
+
+A titularidade originária dos direitos patrimoniais decorre da autoria, salvo hipóteses legais ou contratuais em sentido diverso.
+
+⸻
+
+Questões de Pesquisa
+
+1.
+
+A empresa desenvolvedora da IA pode ser considerada autora?
+
+⸻
+
+2.
+
+Pode ser considerada coautora?
+
+⸻
+
+3.
+
+Existe algum dispositivo legal que lhe atribua direitos patrimoniais originários?
+
+⸻
+
+4.
+
+A titularidade poderia surgir exclusivamente dos Termos de Uso?
+
+⸻
+
+5.
+
+Há diferença entre:
+
+* cessão de direitos;
+* licença de uso;
+* limitação contratual da utilização da ferramenta?
+
+⸻
+
+6.
+
+Os Termos de Uso poderiam produzir efeitos mesmo que a empresa não fosse titular de direitos patrimoniais?
+
+⸻
+
+7.
+
+Existe diferença entre:
+
+* restringir o uso da ferramenta;
+
+e
+
+* restringir o uso da obra produzida?
+
+⸻
+
+Fundamentos Jurídicos a Pesquisar
+
+Constituição Federal
+
+Art. 5º, XXVII.
+
+⸻
+
+Lei nº 9.610/98
+
+Especial atenção aos seguintes dispositivos:
+
+Art. 7º
+
+Art. 11
+
+Art. 15
+
+Art. 22
+
+Art. 27
+
+Art. 28
+
+Art. 29
+
+Art. 49
+
+Art. 50
+
+⸻
+
+Código Civil
+
+Teoria Geral dos Contratos.
+
+Boa-fé objetiva.
+
+Autonomia privada.
+
+Limites da liberdade contratual.
+
+⸻
+
+Pesquisa Doutrinária
+
+Investigar o entendimento de autores brasileiros sobre:
+
+* autoria;
+* coautoria;
+* titularidade;
+* cessão;
+* licenciamento;
+* obras produzidas por Inteligência Artificial.
+
+⸻
+
+Direito Comparado
+
+Pesquisar:
+
+Estados Unidos
+
+U.S. Copyright Office.
+
+Casos administrativos.
+
+Doutrina.
+
+⸻
+
+União Europeia
+
+EU AI Act.
+
+Diretiva 2019/790.
+
+Estudos da Comissão Europeia.
+
+⸻
+
+WIPO
+
+Artificial Intelligence and Intellectual Property.
+
+⸻
+
+Casos Relevantes
+
+Pesquisar impacto sobre esta discussão dos seguintes casos:
+
+* Zarya of the Dawn
+* Théâtre D’Opéra Spatial
+* Getty Images v. Stability AI
+* The New York Times v. OpenAI
+* Andersen v. Stability AI
+
+⸻
+
+Análise Contratual
+
+Comparar os Termos de Uso das principais plataformas.
+
+OpenAI
+
+Verificar:
+
+* titularidade;
+* cessão;
+* licença;
+* limitações de uso.
+
+⸻
+
+Anthropic
+
+Mesmo procedimento.
+
+⸻
+
+Google
+
+Gemini.
+
+⸻
+
+Adobe
+
+Firefly.
+
+⸻
+
+Midjourney
+
+⸻
+
+Microsoft
+
+Copilot.
+
+⸻
+
+Questões Ainda Sem Resposta
+
+Atualmente permanecem em aberto, entre outras, as seguintes questões:
+
+* A empresa desenvolvedora possui algum direito patrimonial originário?
+* Caso possua, qual seria o fundamento legal?
+* Esse fundamento decorre da Lei de Direitos Autorais ou exclusivamente do contrato?
+* É possível ceder um direito que nunca existiu?
+* Uma cláusula contratual pode produzir efeitos sobre uma obra cujo titular originário seja o autor?
+* Existe distinção entre disciplinar contratualmente o uso da ferramenta e disciplinar o uso da obra produzida?
+
+⸻
+
+Próximos Passos
+
+Pesquisar:
+
+1. Doutrina brasileira.
+2. Jurisprudência brasileira.
+3. Copyright Office.
+4. WIPO.
+5. Estudos acadêmicos sobre titularidade.
+6. Natureza jurídica das cláusulas presentes nos Termos de Uso das principais plataformas.
+
+⸻
+
+Referências Iniciais
+
+Constituição da República Federativa do Brasil.
+
+Lei nº 9.610/1998.
+
+Código Civil Brasileiro.
+
+U.S. Copyright Office.
+
+World Intellectual Property Organization (WIPO).
+
+EU AI Act.
+
+⸻
+
+Observações
+
+Este documento representa o início da pesquisa sobre titularidade patrimonial em obras produzidas com auxílio de Inteligência Artificial.
+
+As hipóteses aqui registradas não constituem conclusões jurídicas, devendo ser permanentemente confrontadas com legislação, doutrina, jurisprudência e direito comparado à medida que novas pesquisas forem incorporadas à Knowledge Base.
