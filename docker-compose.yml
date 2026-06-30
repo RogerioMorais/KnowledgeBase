@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+
+  kb-tools:
+
+    build:
+      context: ./tools
+
+    container_name: kb-tools
+
+    working_dir: /workspace
+
+    volumes:
+      - ./:/workspace
+
+    stdin_open: true
+
+    tty: true
