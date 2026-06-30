@@ -1,0 +1,28 @@
+---
+id: {{ id }}
+title: {{ title }}
+category: {{ category }}
+status: draft
+tags:
+{% for tag in tags %}
+  - {{ tag }}
+{% endfor %}
+---
+
+# {{ title }}
+
+## Resumo
+
+{{ summary }}
+
+## Conteúdo
+
+{{ content }}
+
+## Referências
+
+{% if references %}
+{% for reference in references %}
+- {{ reference }}
+{% endfor %}
+{% endif %}

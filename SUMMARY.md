@@ -1,11 +1,11 @@
-AI
+# Summary
 
-KB-001
+## Direito Digital
 
-KB-002
+- [KB-004 - Titularidade dos Direitos Patrimoniais em Obras Produzidas com Auxílio de Inteligência Artificial](docs/ai/KB-004 Titularidade dos Direitos Patrimoniais em Obras Produzidas com Auxílio de Inteligência Artificial.md)
 
-Law
+## Inteligência Artificial
 
-KB-010
-
-...
+- [KB-001 - Stanford HAI](docs/ai/KB-001-Stanford-HAI.md)
+- [KB-002 - OpenAI](docs/ai/KB-002-OpenAI.md)
+- [KB-003 - Anthropic](docs/ai/KB-003-Anthropic.md)

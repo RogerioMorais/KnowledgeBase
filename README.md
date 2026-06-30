@@ -1,15 +1,26 @@
-KnowledgeBase
+# KnowledgeBase
 
-Total KBs
+Base de conhecimento sobre Inteligência Artificial, Direito Digital, Arquitetura de Software e Segurança.
 
-Categorias
+---
 
-AI
+## Estatísticas
 
-Law
+Total de documentos: **4**
 
-Architecture
+- Direito Digital: 1
+- Inteligência Artificial: 3
 
-Security
+---
 
-Lista de documentos
+## Índice
+
+### Direito Digital
+
+- KB-004 - Titularidade dos Direitos Patrimoniais em Obras Produzidas com Auxílio de Inteligência Artificial
+
+### Inteligência Artificial
+
+- KB-001 - Stanford HAI
+- KB-002 - OpenAI
+- KB-003 - Anthropic
